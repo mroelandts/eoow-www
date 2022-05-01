@@ -11,3 +11,4 @@ inschrijvingen: icontjes size
 goede doelen: fix block size
 nieuwsvbrief: foto/movie
 nieuwsvbrief: form to mobirise
+over ons: add links
